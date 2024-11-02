@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 5294102f13667ab409b7e994338848c4
+  - enabled: 1
+    path: Assets/Scenes/AmongUs.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Report.unity
+    guid: d8e78c5c7bc6a574885e0ec271c6ebe5
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 3e8e1024c0f583149a9d03a8eb699380
+  - enabled: 1
+    path: Assets/Scenes/Defeat.unity
+    guid: a2ce9f374acd2a94c9932eb37b38b6cd
+  m_configObjects: {}
